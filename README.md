@@ -113,7 +113,7 @@ Add a screenshot or GIF here once you test it.
 
  Deploy as Docker container
 
-🤝 Contributing
+🤝 Contributing Thanks
 
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to change.
